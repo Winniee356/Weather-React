@@ -5,8 +5,9 @@ body {
 .App {
   max-width: 500px;
   margin: 60px auto;
-  padding: 10px;
-  background: #ffebff
+  padding: 10px 10px;
+  background: #ffebff;
+  border-radius: 25px;
 }
 
 .App a{
