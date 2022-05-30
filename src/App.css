@@ -6,9 +6,9 @@ body {
   max-width: 500px;
   margin: 60px auto;
   padding: 10px;
-  background: #ebfeff
+  background: #ffebff
 }
 
 .App a{
-  color: rgb(142, 199, 198);
+  color: rgb(199, 142, 195);
 }
