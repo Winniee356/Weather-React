@@ -11,7 +11,7 @@ function App() {
       </div>
       <small>
   <a href="https://github.com/Winniee356/Weather-React" rel="noreferrer" target="_blank">Open soured code </a>
-          by Winnie Lam
+       by Winnie Lam 
           </small>
     </div>
   );

@@ -13,3 +13,7 @@ body {
 .App a{
   color: rgb(199, 142, 195);
 }
+
+small {
+color: rgba(13, 13, 13, 0.459);
+}
