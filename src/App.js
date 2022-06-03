@@ -10,7 +10,7 @@ function App() {
         <Weather/>
       </div>
       <small>
-  <a href="https://github.com/Winniee356/Weather-React" rel="noreferrer" target="_blank">Open soured code </a>
+  <a href="https://github.com/Winniee356/Weather-React" rel="noreferrer" target="_blank">Open-soured on Github </a>
        by Winnie Lam 
           </small>
     </div>
