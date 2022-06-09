@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import FormattedDate from "./FormattedDate";
 import axios from "axios";
 import "./Weather.css";
 
@@ -34,8 +35,7 @@ if (weatherData.ready) {
         </form>
       <h1>{weatherData.city}</h1>
         <ul>
-          <li>
-           {weatherData.date}
+          <li> <FormattedDate date={weatherData.date} />
           </li>
           <li className="text-capitalize">{weatherData.description}</li>
         </ul>
