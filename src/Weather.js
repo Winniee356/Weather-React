@@ -19,10 +19,15 @@ function handleResponse(response) {
   })
 }
 
+function handleSubmit(event) {
+  event.preventDefault();
+  // search for a city
+}
+
 if (weatherData.ready) {
   return (
       <div className="Weather">
-        <form>
+        <form onSubmit={handleSubmit}>
           <div className="row">
             <div className="col-9">
           <input type="search"placeholder="Enter a city" className="form-control"
