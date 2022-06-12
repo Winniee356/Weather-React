@@ -4,12 +4,12 @@
   max-width: 600px;
   margin: 60px auto;
   padding: 10px;
-  background: #ffebff;
+  background: #d8e4ff;
   border-radius: 25px;
 }
 
 .App a{
-  color: rgb(199, 142, 195);
+  color: #35605a;
 }
 
 .App footer {
